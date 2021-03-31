@@ -1,0 +1,18 @@
+{
+"companyName": "Amazon Prime",
+"productName": "AmazonPrimeSuriya",
+"productVersion": "1.0",
+"dataUrl": "LiveBuild.data.unityweb",
+"asmCodeUrl": "LiveBuild.asm.code.unityweb",
+"asmMemoryUrl": "LiveBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "LiveBuild.asm.framework.unityweb",
+"TOTAL_MEMORY": 134217728,
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.9f1"
+}
